@@ -8,7 +8,7 @@ The dataset id data.csv which here is of 200MB size(approximately)
     1. Run graph_app.py using python
       python graph_app.py
     2. Step-1 will start a localhost server on port number 5000
-    3. Upload data.csv on webpage after enterinf http://localhost:5000
+    3. Upload data.csv on webpage after entering http://localhost:5000 on your browser.
     4. After uploading click on analize
     5. Select options from the given list i.e , on which data you want to analyze
     6. You can continue further analysis or can view the graph of analyzed data or can save the analyzed data in csv format
